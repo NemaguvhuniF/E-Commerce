@@ -6,7 +6,7 @@ Project
 
 I am selling the following books
 
-Ruby and Rails
-PHP
-JAVA
-C++
+Ruby and Rails,
+PHP,
+JAVA,
+C++.
